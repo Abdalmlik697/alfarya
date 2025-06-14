@@ -442,7 +442,7 @@ main {
 }
 
 /* تحسين ظهور الشعارات في الجوال */
-@media (max-width: 568px) {
+@media (max-width: 368px) {
   .main-logo,
   .arfaj-logo,
   .hila-logo,
